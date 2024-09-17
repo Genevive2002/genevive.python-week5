@@ -1,0 +1,6 @@
+This is the first line.
+Here is the second line with a number: 123
+And the third line, which also contains a number: 456
+Appending a new line with text.
+Appending another line with a number: 789
+Appending a final line of text.
